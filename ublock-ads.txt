@@ -54,7 +54,6 @@
 ||bumlam.com^
 ||c.appier.net^
 ||casalemedia.com^
-||clickonometrics.pl^
 ||cm.mgid.com^
 ||company-target.com^
 ||connatix.com^
