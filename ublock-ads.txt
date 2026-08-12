@@ -1,3 +1,6 @@
+! Title: Naveed Adblock List
+! Description: Custom filter list to block trackers and ad domains
+! Last updated: 2026-08-12
 ||1rx.io^
 ||33across.com^
 ||360yield.com^
